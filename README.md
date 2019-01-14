@@ -14,7 +14,7 @@ Current Features include:
   * Hover buttons
   * Music
   * Options menu used to turn the music volume up or down
-* Beginning of level 1:
+* Gameplay:
   * Music
   * Sprites
   * Movement
